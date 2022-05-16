@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920386301226",
+    "project_id": "peliculas-2022",
+    "storage_bucket": "peliculas-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920386301226:android:d859c086bf87c2c2014253",
+        "android_client_info": {
+          "package_name": "com.moviles.peliculas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920386301226-md62hdr7ei1gm4gqophc5m59h5up31rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQe0C0TrKbv_g9wpor1g8SJjTWwGGOMMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920386301226-md62hdr7ei1gm4gqophc5m59h5up31rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
